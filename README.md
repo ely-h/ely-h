@@ -1,4 +1,5 @@
 # Elyssa H.
+ 🇬🇧 [English version](./README_EN.md)  🇫🇷[Version Française](./README.md)
 
 Bonjour, bienvenue sur ma page GitHub!
 
