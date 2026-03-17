@@ -4,7 +4,7 @@
 Bonjour, bienvenue sur ma page GitHub!
 
 Je suis étudiante en 2e année de BUT Informatique à l'IUT d'Orsay.  
-Je construis des projets web, des applications et des outils et je suis en recherche de stage à partir du 20 Avril 2026.
+Je construis des projets web, des applications et des outils.
 
 ---
 
