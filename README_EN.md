@@ -5,7 +5,7 @@
 Hello, welcome to my GitHub page!
 
 I'm a 2nd-year Computer Science student (BUT Informatique) at IUT d'Orsay.  
-I build web projects, applications and tools — and I'm looking for an internship starting April 20, 2026.
+I build web projects, applications and tools.
 
 ---
 
