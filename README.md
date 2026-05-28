@@ -3,16 +3,10 @@
 
 Bonjour, bienvenue sur ma page GitHub!
 
-Je suis étudiante en 2e année de BUT Informatique à l'IUT d'Orsay.  
+[Portfolio: elyssa.dev](https://elyssa.dev)
+
+Futur étudiante en L3 Miage, je suis actuellement en 2e année de DUT Informatique à l'IUT d'Orsay.
 Je construis des projets web, des applications et des outils.
-
----
-
-**Langages**  
-Python, Java, C / C++, C#, PHP, JavaScript, Bash, SQL
-
-**Web & outils**  
-HTML, CSS, API REST, PHP MVC, Git, Linux, Figma, UML
 
 ---
 
