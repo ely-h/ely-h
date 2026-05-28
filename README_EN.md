@@ -4,16 +4,10 @@
 
 Hello, welcome to my GitHub page!
 
-I'm a 2nd-year Computer Science student (BUT Informatique) at IUT d'Orsay.  
+[Portfolio: elyssa.dev](https://elyssa.dev)
+
+Future student in L3 Miage (Management and Computer science), I'm a 2nd-year Computer Science student (BUT Informatique) at IUT d'Orsay.  
 I build web projects, applications and tools.
-
----
-
-**Languages**  
-Python, Java, C / C++, C#, PHP, JavaScript, Bash, SQL
-
-**Web & Tools**  
-HTML, CSS, REST API, PHP MVC, Git, Linux, Figma, UML
 
 ---
 
